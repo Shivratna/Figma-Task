@@ -1,4 +1,21 @@
 {
+  "name": "figma-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivratna/Figma-Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivratna/Figma-Task/issues"
+  },
+  "homepage": "https://github.com/Shivratna/Figma-Task#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.4"
   }
