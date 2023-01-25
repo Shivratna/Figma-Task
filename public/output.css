@@ -636,6 +636,10 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-0 {
+  margin-top: 0px;
+}
+
 .block {
   display: block;
 }
@@ -1117,6 +1121,10 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:invisible {
+    visibility: hidden;
+  }
+
   .md\:col-span-1 {
     grid-column: span 1 / span 1;
   }
@@ -1135,6 +1143,10 @@ video {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:h-0 {
+    height: 0px;
   }
 
   .md\:grid-cols-3 {
