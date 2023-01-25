@@ -7,6 +7,12 @@
       @apply ml-4 items-center bg-purple-600 hover:bg-blue-700 text-white py-2 px-6 rounded-xl h-12 shadow-lg;
     }
     .btn-white{
-        @apply ml-4 flex items-center rounded-xl border-2 px-8 h-12 shadow-lg;
+        @apply flex items-center rounded-xl border-2 px-8 h-12 shadow-lg;
+    }
+    .name-init{
+      @apply flex -mt-32 pl-52 pt-6 pr-6 justify-between w-full;
+    }
+    .name-mob{
+      @apply flex-col mt-0 pl-4;
     }
   }
