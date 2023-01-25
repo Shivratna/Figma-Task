@@ -4,7 +4,7 @@
 
 @layer components {
     .btn-purple {
-      @apply ml-4 bg-purple-600 hover:bg-blue-700 text-white py-2 px-6 rounded-xl h-12 shadow-lg;
+      @apply ml-4 items-center bg-purple-600 hover:bg-blue-700 text-white py-2 px-6 rounded-xl h-12 shadow-lg;
     }
     .btn-white{
         @apply ml-4 flex items-center rounded-xl border-2 px-8 h-12 shadow-lg;
