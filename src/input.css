@@ -15,4 +15,12 @@
     .name-mob{
       @apply flex-col mt-0 pl-4;
     }
+
+    .icons{
+      @apply rounded my-2 py-3 bg-white hover:bg-slate-100;
+    }
+
+    .menu{
+      @apply flex rounded-3xl px-5 py-2 bg-white hover:bg-slate-100;
+    }
   }
